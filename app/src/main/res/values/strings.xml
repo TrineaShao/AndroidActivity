@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidActivity</string>
+    <string name="tv_name">自定义Activity</string>
+    <string name="btn_name">启动另一个Activity</string>
+    <string name="title_activity_another">AnotherActivity</string>
+    <string name="tv3_name">这是第二个Activity界面</string>
+</resources>
